@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {"term": "유튜브", "category": "브랜드명", "severity": "review"},
+    {"term": "TED", "category": "기관명", "severity": "review"},
+    {"term": "테드", "category": "기관명", "severity": "review"},
+    {"term": "구글", "category": "브랜드명", "severity": "review"},
+    {"term": "EBS", "category": "기관명", "severity": "review"},
+    {"term": "모의고사", "category": "성적표현", "severity": "forbidden"},
+    {"term": "전국연합학력평가", "category": "성적표현", "severity": "forbidden"},
+    {"term": "장학생", "category": "장학", "severity": "review"},
+    {"term": "장학금", "category": "장학", "severity": "review"},
+    {"term": "특허", "category": "출원등록", "severity": "forbidden"}
+  ]
+}

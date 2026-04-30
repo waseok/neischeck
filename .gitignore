@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+dist/
+# PyInstaller 빌드 산출물만 무시, spec 파일은 저장소에 포함
+build/*
+!build/app.spec
+data/logs/
+*.pyc

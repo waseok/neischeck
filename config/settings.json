@@ -1,0 +1,17 @@
+{
+  "newline_bytes": 1,
+  "log_raw_text": false,
+  "byte_limits": {
+    "세특_500": 500,
+    "세특_1500": 1500,
+    "자율활동": 500,
+    "동아리": 500,
+    "진로활동": 700,
+    "행동특성및종합의견": 1500
+  },
+  "default_item_type": "세특_500",
+  "ui": {
+    "row_chunk_size": 300,
+    "preview_rows": 100
+  }
+}

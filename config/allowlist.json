@@ -1,0 +1,19 @@
+{
+  "always_allow_terms": [
+    "CEO",
+    "PD",
+    "UCC",
+    "IT",
+    "POP",
+    "CF",
+    "TV",
+    "PAPS",
+    "SNS",
+    "PPT"
+  ],
+  "book_title_quotes": ["\"", "'", "“", "”", "『", "』", "「", "」"],
+  "context_allow_rules": [
+    {"pattern": "도서", "target_category": "기관명", "effect": "review"},
+    {"pattern": "저자", "target_category": "기관명", "effect": "review"}
+  ]
+}
